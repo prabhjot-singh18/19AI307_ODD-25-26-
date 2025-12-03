@@ -44,8 +44,8 @@ To write a Java program that defines a class with attributes and creates an obje
 
 ```
 Program to create a City class and print its details
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -87,4 +87,5 @@ public class Main{
 
 ### RESULT:
 Thus, the Java program using a class and object to display city details was successfully executed.
+
 
