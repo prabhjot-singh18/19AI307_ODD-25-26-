@@ -37,8 +37,8 @@ To write a Java program that stores user input in a file, reads the file, and co
 
 ```
 Program to count number of words in a text file
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -104,5 +104,6 @@ public class CountWordsInFile {
 
 ### RESULT:
 Thus, the program successfully counts the number of words written into a file.
+
 
 
