@@ -56,8 +56,8 @@ To implement an interface in Java and override methods in different bot classes 
 
 ```
 Program to implement weather prediction using interface-based bots
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -113,5 +113,6 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program implementing weather prediction using interfaces and bot classes was successfully executed.
+
 
 
