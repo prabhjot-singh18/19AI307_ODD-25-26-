@@ -47,8 +47,8 @@ To implement the Mediator Design Pattern using an Air Traffic Control system tha
 
 ```
 Program to simulate Air Traffic Control using Mediator Pattern
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -150,4 +150,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Mediator Pattern was successfully used to coordinate airplane landings through a single Air Traffic Control mediator.
+
 
