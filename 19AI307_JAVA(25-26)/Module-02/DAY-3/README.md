@@ -30,8 +30,8 @@ To write a Java program that demonstrates encapsulation using private variables 
 
 ```
 Program to demonstrate encapsulation using getter and setter methods
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -90,4 +90,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program demonstrating encapsulation using getter and setter methods was successfully executed.
+
 
