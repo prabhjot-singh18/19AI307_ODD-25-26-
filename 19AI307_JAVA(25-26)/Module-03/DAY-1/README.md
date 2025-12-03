@@ -39,8 +39,8 @@ To write a Java program that demonstrates inheritance and polymorphism by comput
 ### PROGRAM:
 ```
 Program to calculate final price for customers with discounts and cashback
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -161,3 +161,4 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program demonstrating inheritance and polymorphism to compute discounted gold prices and cashback was successfully executed.
+
