@@ -44,8 +44,8 @@ To write a Java program demonstrating inheritance and method overriding by imple
 
 ```
 Program to demonstrate inheritance and method overriding (circle & cylinder)
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -122,4 +122,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program using inheritance and method overriding to compute areas of shapes (circle & cylinder) was successfully executed.
+
 
