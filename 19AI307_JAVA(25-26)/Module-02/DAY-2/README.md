@@ -38,8 +38,8 @@ To write a Java program that demonstrates method calling within another method b
 
 ```
 Program to compute cube of a number using the square() method
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -77,4 +77,5 @@ public class Main{
 
 ### RESULT:
 Thus, the Java program demonstrating method calling within another method to compute the cube of a number was successfully executed.
+
 
