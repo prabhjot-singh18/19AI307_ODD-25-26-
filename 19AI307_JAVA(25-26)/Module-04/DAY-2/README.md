@@ -43,8 +43,8 @@ To implement a Singleton class in Java to ensure a single print spooler manager 
 
 ```
 Program to simulate a singleton print spooler job manager
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -102,4 +102,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program successfully implemented a singleton print spooler manager that maintains a shared job count across all accesses.
+
 
