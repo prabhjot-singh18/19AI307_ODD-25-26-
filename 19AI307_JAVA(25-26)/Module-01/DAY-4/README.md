@@ -44,8 +44,8 @@ To write a Java program that reads an array of integers and prints only those el
 
 ```
 Program to print all array elements greater than a given value
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -92,6 +92,7 @@ public class Main{
 
 ### RESULT:
 Thus, the Java program to print array elements greater than a given value was successfully executed.
+
 
 
 
