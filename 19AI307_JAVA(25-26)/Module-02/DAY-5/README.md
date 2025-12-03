@@ -39,8 +39,8 @@ To write a Java program that demonstrates the use of static and non-static metho
 
 ```
 Program to demonstrate static and non-static methods in a Calculator class
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -85,6 +85,7 @@ class prog {
 
 ### RESULT:
 Thus, the Java program demonstrating static and non-static methods in a class was successfully executed.
+
 
 
 
