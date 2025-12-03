@@ -38,8 +38,8 @@ To write a Java program that updates an initial power value using various compou
 
 ```
 Program to implement variables and Operators using Java
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -79,4 +79,5 @@ public class Main{
 
 ### RESULT:
 Thus, the Java program using compound assignment operators to update the power value was successfully executed.
+
 
