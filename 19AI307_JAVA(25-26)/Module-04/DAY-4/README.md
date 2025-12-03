@@ -39,8 +39,8 @@ To implement the Abstract Factory design pattern in Java for creating region-spe
 
 ```
 Program to implement Abstract Factory Pattern for animal creation
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -129,4 +129,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Abstract Factory pattern was successfully used to create region-specific animal families and simulate their interaction.
+
 
