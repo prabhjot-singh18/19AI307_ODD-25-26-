@@ -30,8 +30,8 @@ To write a Java program that takes a range of integers as input and prints all t
 
 ```
 Program to print all prime numbers in a given range
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -75,5 +75,6 @@ public class Main{
 
 ### RESULT:
 Thus, the Java program to print all prime numbers within a given range was successfully executed.
+
 
 
