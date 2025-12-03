@@ -38,8 +38,8 @@ To write a Java program that updates the current thread’s name and prints its 
 
 ```
 Program to get and set current thread details
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -81,5 +81,6 @@ public class ThreadDetails {
 
 ### RESULT:
 Thus, the program successfully retrieves and displays the current thread’s name, priority, and full thread information.
+
 
 
