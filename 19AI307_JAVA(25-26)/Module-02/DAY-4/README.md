@@ -41,8 +41,8 @@ To write a Java program that defines a class with a parameterized constructor an
 
 ```
 Program to create a Book class and display its details using a constructor
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -84,6 +84,7 @@ public class Book{
 
 ### RESULT:
 Thus, the Java program using a parameterized constructor to display book details was successfully executed.
+
 
 
 
