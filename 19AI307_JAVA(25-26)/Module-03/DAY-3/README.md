@@ -50,8 +50,8 @@ To implement abstraction in Java by defining an abstract class and overriding it
 
 ```
 Program to demonstrate abstraction using MazeAgent, ScoutAgent, and HunterAgent
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -125,5 +125,6 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program implementing abstraction using MazeAgent, ScoutAgent, and HunterAgent was successfully executed.
+
 
 
