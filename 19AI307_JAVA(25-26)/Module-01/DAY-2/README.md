@@ -35,8 +35,8 @@ To write a Java program to compute and compare the time taken by stairs and elev
 
 ```
 Program to determine the faster route (stairs or elevator)
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -75,4 +75,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program to determine whether the stairs or elevator is faster was successfully executed.
+
 
