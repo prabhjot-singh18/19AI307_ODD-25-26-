@@ -42,8 +42,8 @@ To write a Java program that uses a fixed thread pool (size 3) to process multip
 
 ```
 Program using fixed thread pool to compute n*2 for multiple inputs
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -85,4 +85,5 @@ public class Main {
 
 ### RESULT:
 Thus, the program successfully uses a fixed thread pool to process tasks concurrently and return ordered results.
+
 
