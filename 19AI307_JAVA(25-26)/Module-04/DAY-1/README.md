@@ -27,8 +27,8 @@ To write a Java program that safely handles null string values before converting
 
 ```
 Program to handle null values before calling toUpperCase()
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -61,5 +61,6 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program to safely check for null values before calling `toUpperCase()` was successfully executed.
+
 
 
