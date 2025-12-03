@@ -46,8 +46,8 @@ To write a Java program that serializes and deserializes a list of `Student` obj
 
 ```
 Program to serialize and deserialize a list of Student objects
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -151,5 +151,6 @@ public class StudentSerializationUserInput {
 
 ### RESULT:
 Thus, the program successfully serialized and deserialized a list of student objects using Java’s object streams.
+
 
 
