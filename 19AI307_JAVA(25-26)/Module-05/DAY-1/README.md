@@ -38,8 +38,8 @@ To write a Java program that logs user input with timestamps into a text file un
 
 ```
 Program to log user input with timestamps into a file
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -86,6 +86,7 @@ public class UserInputLogger {
 
 ### RESULT:
 Thus, the program successfully logs user input with timestamps into a text file.
+
 
 
 
