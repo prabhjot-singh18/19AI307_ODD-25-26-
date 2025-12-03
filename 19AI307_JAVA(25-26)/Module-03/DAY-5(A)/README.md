@@ -44,8 +44,8 @@ To write a Java program demonstrating enums with constructors and methods by pri
 
 ```
 Program to demonstrate enum with constructor and methods for vehicle types
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -96,4 +96,5 @@ public class Main {
 
 ### RESULT:
 Thus, the Java program using an enum with a constructor to represent vehicle types and their wheel counts was successfully executed.
+
 
