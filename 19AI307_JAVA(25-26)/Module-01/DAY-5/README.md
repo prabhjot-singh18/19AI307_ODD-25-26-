@@ -35,8 +35,8 @@ To write a Java program that processes a sentence, splits it into words, and ide
 
 ```
 Program to find the longest word in a given sentence
-Developed by: PAVAN KUMAR A B
-RegisterNumber: 212222040113
+Developed by: PRABHJOT SINGH
+RegisterNumber: 212222040116
 ```
 
 ---
@@ -76,4 +76,5 @@ public class Main{
 
 ### RESULT:
 Thus, the Java program to find the longest word in a sentence was successfully executed.
+
 
